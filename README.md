@@ -1,1 +1,1 @@
-frontend development like portfolio 
+web based internship
